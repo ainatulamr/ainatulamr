@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Ainatul Aqilah
+
+I'm currently enrolled in Computer Science program at Universiti Teknologi MARA with an interest to pursue a research career in Computational Biology.
+
+## About me
+- Studying: Computer Science, UiTM
+- Currently learning: Artificial Intelligence
+- My FYP area: still deciding
+
+## Skills and tools
+C++, JAVA
+
+## Projects
+- [Project name](link-to-your-repository): one sentence about it
+
+## Contact
+- Email: cs.ainatul@gmail.com
+## Contact
+- Email: cs.ainatul@gmail.com
