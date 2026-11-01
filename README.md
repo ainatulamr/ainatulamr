@@ -30,5 +30,3 @@ C++, JAVA
 
 ## Contact
 - Email: cs.ainatul@gmail.com
-## Contact
-- Email: cs.ainatul@gmail.com
