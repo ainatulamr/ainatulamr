@@ -26,7 +26,7 @@ I'm currently enrolled in Computer Science program at Universiti Teknologi MARA 
 C++, JAVA
 
 ## Projects
-- [Project name](link-to-your-repository): one sentence about it
+- [Biological Data Explorer]((https://github.com/ainatulamr/biological-data-explorer)): A beginner coding project to explore and analyse biological dataset.
 
 ## Contact
 - Email: cs.ainatul@gmail.com
